@@ -1,0 +1,108 @@
+.flex-container {
+  display: flex;
+  flex-wrap: wrap;
+  background: linear-gradient(39.97deg, #EF2779 0.79%, #7834BE 79.29%);
+  padding-top: 5px;
+}
+
+.flex-container > div1 {
+  width: 100%;
+  margin: 5px;
+  font-size: 8px;
+  text-align: center;
+}
+
+.flex-container > div2 {
+  width: 49%;
+}
+
+.flex-container > div3 {
+  
+  width: 48%;
+  margin: 10px;
+  text-align: left;
+  padding-top: 50px;
+  line-height: 20px;
+}
+
+.content {
+  width: 94%;
+  margin: 4em auto;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+}
+
+.logo {
+  line-height: 60px;
+
+  float: left;
+  margin: 16px 46px;
+  color: #fff;
+  font-weight: bold;
+  font-size: 20px;
+  letter-spacing: 2px;
+}
+
+nav {
+  width: 100%;
+  line-height: 60px;
+}
+
+nav ul {
+  line-height: 60px;
+  list-style: none;
+  background: rgba(0, 0, 0, 0);
+  overflow: hidden;
+  color: #fff;
+  padding: 0;
+  text-align: right;
+  margin: 0;
+  padding-right: 40px;
+
+}
+
+nav.black ul {
+  background: #000;
+}
+
+nav ul li {
+  display: inline-block;
+  padding: 16px 20px;
+  font-family: 'Roboto', sans-serif;
+}
+
+nav ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-size: 20px;
+}
+
+.menu-icon {
+  line-height: 60px;
+  width: 100%;
+  background: #000;
+  text-align: right;
+  box-sizing: border-box;
+  padding: 15px 24px;
+  cursor: pointer;
+  color: #fff;
+  display: none;
+}
+
+.button1 {
+    background-color: white;
+    border-radius: 2px;
+}
+
+.feature h3
+{
+  text-align: center;
+  
+
+
+
+
+  
+
+}
